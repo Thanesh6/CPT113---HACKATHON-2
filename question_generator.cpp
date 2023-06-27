@@ -8,7 +8,7 @@ int generateNumber(int min, int max) {
 }
 
 char generateOperator() {
-    char operators[] = {'+', '-', '*', '/'};
+    char operators[] = {'+', '-', '*'};
     int index = rand() % 4;
     return operators[index];
 }
@@ -21,8 +21,6 @@ int calculateResult(int num1, int num2, char op) {
             return num1 - num2;
         case '*':
             return num1 * num2;
-        case '/':
-            return num1 / num2;
         default:
             return 0;
     }
