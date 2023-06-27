@@ -1,5 +1,7 @@
 #include "question_generator.h"
 #include <iostream>
+#include <cstdlib>
+#include <ctime>
 
 int generateNumber(int min, int max) {
     return rand() % (max - min + 1) + min;
