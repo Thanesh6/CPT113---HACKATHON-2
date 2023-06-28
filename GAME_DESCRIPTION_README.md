@@ -1,3 +1,4 @@
+/*
 # CPT113---HACKATHON-2
 
 Game Description:
@@ -114,3 +115,4 @@ Queues: Queues can be used to manage the in-game store functionality. When the p
  
 By utilizing these data structures, the game can effectively manage the game progression, combat system, and in-game store mechanics, providing an engaging and challenging experience for the players.
 
+*/
