@@ -1,7 +1,7 @@
 
 # CPT113---HACKATHON-2
 
-Game Demo Video Link : https://drive.google.com/file/d/1_hV9FqfzyavIjN15PbspAe8FL1gyOpwo/view?usp=sharing
+Game Demo Video Link : https://youtu.be/ZVv92hJlE24
 
 Game Description:
 
